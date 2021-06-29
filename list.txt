@@ -24,7 +24,6 @@ https://ssl.gstatic.com/onebox/weather/64/sunny_s_cloudy.png
 https://ssl.gstatic.com/onebox/weather/64/cloudy_s_rain.png
 https://ssl.gstatic.com/onebox/weather/64/snow_s_rain.png
 https://ssl.gstatic.com/onebox/weather/64/sunny_s_snow.png
-https://ssl.gstatic.com/onebox/weather/64/rain_s_rain.png
 https://ssl.gstatic.com/onebox/weather/64/snow_s_sunny.png
 https://ssl.gstatic.com/onebox/weather/64/rain_s_sunny.png
 https://ssl.gstatic.com/onebox/weather/64/rain_s_snow.png
