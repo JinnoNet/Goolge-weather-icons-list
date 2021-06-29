@@ -1,3 +1,5 @@
+[**View list**](https://github.com/JinnoNet/Goolge-weather-icons-list/blob/main/list.txt)
+
 # about
 
 Goolgeの天気のアイコンのpngのURLのリスト。
