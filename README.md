@@ -28,3 +28,7 @@ icons size: 32,48,64
 * `partly_cloudy` 曇
 
 ところによりが省略
+
+# License
+The image at the URL is copyrighted by Google.  
+URL先の画像はGoogleの著作物です。リストはご自由にお使いください。
