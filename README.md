@@ -6,7 +6,7 @@ Goolgeの天気のアイコンのpngのURLのリスト。
 
 見つけたもののみです。 順不同。
 
-icons size: 32,48,64  
+icons size: 32,48,64,128,256  
 
 * `A_t_B` - A then B - AのちB
 * `A_s_B` - A sometimes B - A時々B or A一時B
